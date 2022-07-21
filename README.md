@@ -17,5 +17,7 @@ GitHub é uma plataforma em nuvem, ou seja, um repositório online onde armazena
 
 ##Links úteis
 [Baixar GIT](https://git-scm.com/downloads)
+
 [GitHub](https://github.com/)
+
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
